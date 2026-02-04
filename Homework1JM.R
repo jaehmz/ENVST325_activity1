@@ -79,15 +79,20 @@ DiffPeaks
 
 
 # Question 2
-# Answer on word file
+# If all of the code is typed in the console, 
+# then it would not be saved in the Git repository. 
+# This code that is typed in would be ran imminently, 
+# so you would get results but not be able to track changes using version control. 
+# Version control tracks the changes in files, not the console window.  
 
 
 
 
 # Question 3
-# Finding the trip with the longest route
-DiffPeaks[2,4]
-
+# Finding the row that has the trip with the longest route
+longest_trip_row = DiffPeaks[2,]
+# running the variable
+longest_trip_row
 
 
 
